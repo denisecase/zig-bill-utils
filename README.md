@@ -8,20 +8,21 @@
 Tested with **H.Con.Res.14:**  _Establishing the congressional budget for the United States Government for fiscal year 2025 and setting forth the appropriate budgetary levels for fiscal years 2026 through 2034._
 - 119th Congress (2025-2026)
 
-Built with most current version of [Zig](https://ziglang.org/documentation/) - 0.15+
+Built a recent version of [Zig](https://ziglang.org/documentation/)
+ - [zig-version.txt](zig-version.txt)
 
 ## CLI Tools
 
-This project provides six CLI tools in `zig-out/bin`:
+This project provides six CLI tools in `zig-out` os-specific folders:
 
 | Tool                | Description                                           |
 |---------------------|-------------------------------------------------------|
-| `clean-bill`        | Cleans bill text (removes line numbers, whitespace)   |
-| `extract-amendments`| Extracts amendments            |
-| `extract-headings`  | Extracts section headers (`TITLE`, `SEC.`)            |
-| `extract-money`     | Extracts funding amounts (e.g., `$5,000,000`)         |
-| `filter-keywords`   | Filters lines by keyword (listed in keywords.txt)     |
-| `split-sections`    | Splits full bill into files by section                |
+| `clean_bill`        | Cleans bill text (removes line numbers, whitespace)   |
+| `extract_amendments`| Extracts amendments            |
+| `extract_headings`  | Extracts section headers (`TITLE`, `SEC.`)            |
+| `extract_money`     | Extracts funding amounts (e.g., `$5,000,000`)         |
+| `filter_keywords`   | Filters lines by keyword (listed in keywords.txt)     |
+| `split_sections`    | Splits full bill into files by section                |
 
 ## Features
 
@@ -34,18 +35,24 @@ This project provides six CLI tools in `zig-out/bin`:
 Run pipeline on each `data/billname` folder:
 
 ```pwsh
-./run-all-bills.ps1
+./zig-bill-utils-run.ps1
 ```
 
 ## Development
 
-Build all tools (Zig 0.15+ required):
+Choose commands to build for each target as needed (Zig 0.15+ required) or run them all with PowerShell Core.
 
 ```pwsh
-zig build -Doptimize=ReleaseSafe
+zig build install -Dtarget=aarch64-macos -Doptimize=ReleaseSafe
+zig build install -Dtarget=x86_64-linux -Doptimize=ReleaseSafe
+zig build install -Dtarget=x86_64-macos -Doptimize=ReleaseSafe
+zig build install -Dtarget=x86_64-windows -Doptimize=ReleaseSafe 
+
+
+./build_all.ps1
 ```
 
-Binaries are written to `zig-out/bin/`.
+Binaries are written to `zig-out/` in operating-system specific folders.
 
 ## Project Organization
 
@@ -70,7 +77,7 @@ Binaries are written to `zig-out/bin/`.
 - [Zig](https://ziglang.org/)
   - [Language Reference](https://ziglang.org/documentation/master/)
   - [Standard Library](https://ziglang.org/documentation/master/std/)
-
+  - [Build System](https://ziglang.org/learn/build-system/)
 ## License
 
 MIT License © 2025 Denise Case
