@@ -1,0 +1,12 @@
+Sponsor: Sponsor
+Party: Party of Sponsor
+
+-- AMENDMENT TEXT --
+
+Amendment Text Version
+Date Submitted
+Date Proposed / Offered
+Status of Amendment
+Committee of Referral
+Latest Action
+Latest Action Date

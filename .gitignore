@@ -1,0 +1,23 @@
+# This .gitignore file lists content that does NOT need to be tracked in the project history
+
+# ----------------------------------------
+# macOS system files (always ignore)
+# ----------------------------------------
+.DS_Store
+
+# ----------------------------------------
+# Visual Studio Code (always ignore)
+# ----------------------------------------
+.vscode/
+
+# ----------------------------------------
+# Environment variables and secrets (always ignore)
+# ----------------------------------------
+.env
+.env.*
+
+# ----------------------------------------
+# Zig build files 
+# ----------------------------------------
+.zig-cache/
+*.pdb
