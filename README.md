@@ -11,6 +11,8 @@ Tested with **H.Con.Res.14:**  _Establishing the congressional budget for the Un
 Built a recent version of [Zig](https://ziglang.org/documentation/)
  - [zig-version.txt](zig-version.txt)
 
+Use high-performance Zig to enhance Python projects, e.g., [py-bill-utils](https://github.com/denisecase/py-bill-utils).
+
 ## CLI Tools
 
 This project provides six CLI tools in `zig-out` os-specific folders:
