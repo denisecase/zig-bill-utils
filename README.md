@@ -78,6 +78,7 @@ Binaries are written to `zig-out/` in operating-system specific folders.
   - [Language Reference](https://ziglang.org/documentation/master/)
   - [Standard Library](https://ziglang.org/documentation/master/std/)
   - [Build System](https://ziglang.org/learn/build-system/)
+
 ## License
 
 MIT License © 2025 Denise Case
