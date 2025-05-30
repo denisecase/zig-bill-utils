@@ -2,24 +2,33 @@
 # Builds all supported target platforms
 
 Clear-Host
-Write-Host "Building all supported target platforms..."
+Write-Host "Building all supported target platforms..." -ForegroundColor Cyan
 $ErrorActionPreference = "Stop"
-# Ensure zig is installed and available in PATH
+
+# Check for zig
 if (-not (Get-Command zig -ErrorAction SilentlyContinue)) {
-    Write-Host "Zig is not installed or not in PATH. Please install Zig and try again."
+    Write-Host "Zig is not installed or not in PATH. Please install Zig and try again." -ForegroundColor Red
     exit 1
 }
 
-Write-Host "Building for x86_64-windows..."
-zig build install -Dtarget=x86_64-windows -Doptimize=ReleaseSafe
+function Invoke-Build {
+    param (
+        [string]$Target
+    )
 
-Write-Host "Building for x86_64-linux..."
-zig build install -Dtarget=x86_64-linux -Doptimize=ReleaseSafe
+    Write-Host "  Building for $Target..."
+    zig build install "-Dtarget=${Target}" -Doptimize=ReleaseSafe
 
-Write-Host "Building for x86_64-macos..."
-zig build install -Dtarget=x86_64-macos -Doptimize=ReleaseSafe
+    if ($LASTEXITCODE -ne 0) {
+        Write-Host "Build failed for $Target." -ForegroundColor Red
+        exit $LASTEXITCODE
+    }
+}
 
-Write-Host "Building for aarch64-macos..."
-zig build install -Dtarget=aarch64-macos -Doptimize=ReleaseSafe
+# Build for each target
+Invoke-Build "x86_64-windows-gnu"
+Invoke-Build "x86_64-linux-gnu"
+Invoke-Build "x86_64-macos-none"
+Invoke-Build "aarch64-macos-none"
 
-Write-Host "Done. See binaries in zig-out/<target>"
+Write-Host "Done. If successful, see binaries in zig-out/<target>" -ForegroundColor Green

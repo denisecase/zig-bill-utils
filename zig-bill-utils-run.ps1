@@ -27,19 +27,19 @@ function Get-OSFolder {
     return "$arch-$os"
 }
 
-# Resolve platform
+# Detect platform
 $osDir = Get-OSFolder
 $exeExt = if ($osDir -like "*windows") { ".exe" } else { "" }
 Write-Host "Operating System Folder: $osDir"
 
-# Confirm zig is available
+# Confirm Zig is available
 if (-not (Get-Command zig -ErrorAction SilentlyContinue)) {
     Write-Host "Zig is not installed or not in PATH. Please install Zig and try again."
     exit 1
 }
 
 # Base folders
-$cwd = (Get-Location).Path
+#$cwd = (Get-Location).Path
 $exeDir = Join-Path "zig-out" $osDir
 $dataRoot = "data"
 $outputRoot = "output"
@@ -62,7 +62,7 @@ foreach ($bill in $billFolders) {
 
     New-Item -ItemType Directory -Path $outputDir -Force | Out-Null
 
-    $toolNames = @(
+    $tools = @(
         "clean_bill",
         "extract_headings",
         "extract_amendments",
@@ -71,28 +71,52 @@ foreach ($bill in $billFolders) {
         "split_sections"
     )
 
-    $argsMap = @{
-        "clean_bill"         = @("--path", (Join-Path $dataDir "bill.txt"), "--outdir", $outputDir)
-        "extract_headings"   = @("--path", (Join-Path $outputDir "clean.txt"), "--outdir", $outputDir)
-        "extract_amendments" = @("--path", $dataDir, "--outdir", $outputDir)
-        "extract_money"      = @("--path", (Join-Path $outputDir "clean.txt"), "--outdir", $outputDir)
-        "filter_keywords"    = @("--path", (Join-Path $outputDir "clean.txt"), "--outdir", $outputDir)
-        "split_sections"     = @("--path", (Join-Path $outputDir "clean.txt"), "--outdir", $outputDir)
-    }
+    $variants = @("file", "stream")
 
-    $step = 1
-    foreach ($toolName in $toolNames) {
-        $exeFile  = Join-Path $exeDir ($toolName + $exeExt)
-        $toolPath = Join-Path $cwd $exeFile
+   foreach ($tool in $tools) {
+        foreach ($variant in $variants) {
+            $exeName = "${tool}_${variant}${exeExt}"
+            $exePath = Join-Path $exeDir $exeName
 
-        if (-not (Test-Path $toolPath)) {
-            Write-Warning "❌ Skipping missing tool: $toolPath"
-            continue
+            if (-not (Test-Path $exePath)) {
+                Write-Warning "Skipping missing tool: $exePath"
+                continue
+            }
+
+            Write-Host "→ Running: $exeName"
+
+            $cleanPath = Join-Path $outputDir "clean.txt"
+
+            $arguments = switch ($tool) {
+                "clean_bill"         { @("--path", (Join-Path $dataDir "bill.txt"), "--outdir", $outputDir) }
+                "extract_headings"   { @("--path", $cleanPath, "--outdir", $outputDir) }
+                "extract_amendments" { @("--path", $dataDir, "--outdir", $outputDir) }
+                "extract_money"      { @("--path", $cleanPath, "--outdir", $outputDir) }
+                "filter_keywords"    { @("--path", $cleanPath, "--outdir", $outputDir) }
+                "split_sections"     { @("--path", $cleanPath, "--outdir", $outputDir) }
+            }
+
+            if ($variant -eq "file") {
+                & $exePath @arguments
+            } else {
+                # Handle stdin for stream tools
+                $inputPath = if ($tool -eq "clean_bill") {
+                    Join-Path $dataDir "bill.txt"
+                } else {
+                    $cleanPath
+                }
+
+                if (-not (Test-Path $inputPath)) {
+                    Write-Warning "Missing input for stream: $inputPath"
+                    continue
+                }
+
+                Get-Content $inputPath | & $exePath @("--outdir", $outputDir)
+            }
         }
-
-        Write-Host "→ Running: $toolPath"
-        & $toolPath @($argsMap[$toolName])
     }
-    Write-Host "`n Done processing: $billName"
+
+    Write-Host "Done processing: $billName"
 }
-Write-Host "`nAll bills processed successfully."
+
+Write-Host "All bills processed successfully."

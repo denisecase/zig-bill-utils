@@ -8,14 +8,21 @@
 Tested with **H.Con.Res.14:**  _Establishing the congressional budget for the United States Government for fiscal year 2025 and setting forth the appropriate budgetary levels for fiscal years 2026 through 2034._
 - 119th Congress (2025-2026)
 
-Built a recent version of [Zig](https://ziglang.org/documentation/)
+Built with a recent version of [Zig](https://ziglang.org/documentation/)
  - [zig-version.txt](zig-version.txt)
+ - Update to latest at <https://ziglang.org/download/>
 
 Use high-performance Zig to enhance Python projects, e.g., [py-bill-utils](https://github.com/denisecase/py-bill-utils).
 
 ## CLI Tools
 
-This project provides six CLI tools in `zig-out` os-specific folders:
+Each tool is available in two versions:
+
+- `_file/`: Reads from file using std.fs.File.
+- `_stream/`: Reads from stdin using std.io streams.
+
+All tools are implemented using Zig's standard library.
+This project provides CLI tools in `zig-out` os-specific folders.
 
 | Tool                | Description                                           |
 |---------------------|-------------------------------------------------------|

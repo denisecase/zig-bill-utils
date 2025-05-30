@@ -1,0 +1,629 @@
+SEC. 1102. MAJOR FUNCTIONAL CATEGORIES.
+
+Congress determines and declares that the appropriate levels of new
+budget authority and outlays for fiscal years 2025 through 2034 for
+each major functional category are:
+(1) National Defense (050):
+Fiscal year 2025:
+(A) New budget authority, $933,484,000,000.
+(B) Outlays, $909,629,000,000.
+Fiscal year 2026:
+(A) New budget authority, $901,220,000,000.
+(B) Outlays, $904,412,000,000.
+Fiscal year 2027:
+(A) New budget authority, $923,020,000,000.
+(B) Outlays, $911,956,000,000.
+Fiscal year 2028:
+(A) New budget authority, $944,111,000,000.
+(B) Outlays, $934,660,000,000.
+Fiscal year 2029:
+(A) New budget authority, $966,203,000,000.
+(B) Outlays, $942,419,000,000.
+Fiscal year 2030:
+(A) New budget authority, $989,212,000,000.
+(B) Outlays, $966,361,000,000.
+Fiscal year 2031:
+(A) New budget authority, $1,012,715,000,000.
+(B) Outlays, $984,795,000,000.
+Fiscal year 2032:
+(A) New budget authority, $1,036,723,000,000.
+(B) Outlays, $1,003,888,000,000.
+Fiscal year 2033:
+(A) New budget authority, $1,062,319,000,000.
+(B) Outlays, $1,037,888,000,000.
+Fiscal year 2034:
+(A) New budget authority, $1,087,382,000,000.
+(B) Outlays, $1,054,430,000,000.
+(2) International Affairs (150):
+Fiscal year 2025:
+(A) New budget authority, $65,962,000,000.
+(B) Outlays, $69,206,000,000.
+Fiscal year 2026:
+(A) New budget authority, $61,716,000,000.
+(B) Outlays, $67,669,000,000.
+Fiscal year 2027:
+(A) New budget authority, $62,249,000,000.
+(B) Outlays, $66,456,000,000.
+Fiscal year 2028:
+(A) New budget authority, $63,512,000,000.
+(B) Outlays, $62,391,000,000.
+Fiscal year 2029:
+(A) New budget authority, $64,944,000,000.
+(B) Outlays, $62,832,000,000.
+Fiscal year 2030:
+(A) New budget authority, $66,408,000,000.
+(B) Outlays, $63,077,000,000.
+Fiscal year 2031:
+(A) New budget authority, $67,878,000,000.
+(B) Outlays, $64,002,000,000.
+Fiscal year 2032:
+(A) New budget authority, $69,343,000,000.
+(B) Outlays, $65,176,000,000.
+Fiscal year 2033:
+(A) New budget authority, $70,874,000,000.
+(B) Outlays, $66,517,000,000.
+Fiscal year 2034:
+(A) New budget authority, $72,435,000,000.
+(B) Outlays, $67,889,000,000.
+(3) General Science, Space, and Technology (250):
+Fiscal year 2025:
+(A) New budget authority, $42,084,000,000.
+(B) Outlays, $41,734,000,000.
+Fiscal year 2026:
+(A) New budget authority, $41,345,000,000.
+(B) Outlays, $41,844,000,000.
+Fiscal year 2027:
+(A) New budget authority, $42,264,000,000.
+(B) Outlays, $41,923,000,000.
+Fiscal year 2028:
+(A) New budget authority, $43,099,000,000.
+(B) Outlays, $42,198,000,000.
+Fiscal year 2029:
+(A) New budget authority, $44,017,000,000.
+(B) Outlays, $42,887,000,000.
+Fiscal year 2030:
+(A) New budget authority, $44,980,000,000.
+(B) Outlays, $43,633,000,000.
+Fiscal year 2031:
+(A) New budget authority, $45,946,000,000.
+(B) Outlays, $44,551,000,000.
+Fiscal year 2032:
+(A) New budget authority, $46,922,000,000.
+(B) Outlays, $45,486,000,000.
+Fiscal year 2033:
+(A) New budget authority, $47,936,000,000.
+(B) Outlays, $46,460,000,000.
+Fiscal year 2034:
+(A) New budget authority, $48,985,000,000.
+(B) Outlays, $47,466,000,000.
+(4) Energy (270):
+Fiscal year 2025:
+(A) New budget authority, $39,842,000,000.
+(B) Outlays, $37,587,000,000.
+Fiscal year 2026:
+(A) New budget authority, $39,958,000,000.
+(B) Outlays, $44,514,000,000.
+Fiscal year 2027:
+(A) New budget authority, $34,098,000,000.
+(B) Outlays, $52,768,000,000.
+Fiscal year 2028:
+(A) New budget authority, $34,825,000,000.
+(B) Outlays, $51,623,000,000.
+Fiscal year 2029:
+(A) New budget authority, $35,770,000,000.
+(B) Outlays, $48,582,000,000.
+Fiscal year 2030:
+(A) New budget authority, $33,946,000,000.
+(B) Outlays, $42,596,000,000.
+Fiscal year 2031:
+(A) New budget authority, $35,188,000,000.
+(B) Outlays, $40,366,000,000.
+Fiscal year 2032:
+(A) New budget authority, $39,697,000,000.
+(B) Outlays, $41,611,000,000.
+Fiscal year 2033:
+(A) New budget authority, $24,489,000,000.
+(B) Outlays, $25,941,000,000.
+Fiscal year 2034:
+(A) New budget authority, $16,203,000,000.
+(B) Outlays, $17,040,000,000.
+(5) Natural Resources and Environment (300):
+Fiscal year 2025:
+(A) New budget authority, $88,319,000,000.
+(B) Outlays, $89,764,000,000.
+Fiscal year 2026:
+(A) New budget authority, $67,633,000,000.
+(B) Outlays, $80,552,000,000.
+Fiscal year 2027:
+(A) New budget authority, $45,140,000,000.
+(B) Outlays, $75,844,000,000.
+Fiscal year 2028:
+(A) New budget authority, $45,985,000,000.
+(B) Outlays, $71,673,000,000.
+Fiscal year 2029:
+(A) New budget authority, $46,956,000,000.
+(B) Outlays, $67,691,000,000.
+Fiscal year 2030:
+(A) New budget authority, $47,707,000,000.
+(B) Outlays, $63,948,000,000.
+Fiscal year 2031:
+(A) New budget authority, $48,854,000,000.
+(B) Outlays, $60,580,000,000.
+Fiscal year 2032:
+(A) New budget authority, $49,918,000,000.
+(B) Outlays, $56,444,000,000.
+Fiscal year 2033:
+(A) New budget authority, $51,246,000,000.
+(B) Outlays, $55,797,000,000.
+Fiscal year 2034:
+(A) New budget authority, $52,225,000,000.
+(B) Outlays, $55,480,000,000.
+(6) Agriculture (350):
+Fiscal year 2025:
+(A) New budget authority, $58,457,000,000.
+(B) Outlays, $41,846,000,000.
+Fiscal year 2026:
+(A) New budget authority, $28,163,000,000.
+(B) Outlays, $46,212,000,000.
+Fiscal year 2027:
+(A) New budget authority, $31,716,000,000.
+(B) Outlays, $33,686,000,000.
+Fiscal year 2028:
+(A) New budget authority, $33,008,000,000.
+(B) Outlays, $34,426,000,000.
+Fiscal year 2029:
+(A) New budget authority, $33,334,000,000.
+(B) Outlays, $32,441,000,000.
+Fiscal year 2030:
+(A) New budget authority, $30,857,000,000.
+(B) Outlays, $30,098,000,000.
+Fiscal year 2031:
+(A) New budget authority, $30,468,000,000.
+(B) Outlays, $29,609,000,000.
+Fiscal year 2032:
+(A) New budget authority, $31,239,000,000.
+(B) Outlays, $30,163,000,000.
+Fiscal year 2033:
+(A) New budget authority, $32,276,000,000.
+(B) Outlays, $30,893,000,000.
+Fiscal year 2034:
+(A) New budget authority, $32,912,000,000.
+(B) Outlays, $31,721,000,000.
+(7) Commerce and Housing Credit (370):
+Fiscal year 2025:
+(A) New budget authority, $12,477,000,000.
+(B) Outlays, -$18,175,000,000.
+Fiscal year 2026:
+(A) New budget authority, $32,747,000,000.
+(B) Outlays, -$626,000,000.
+Fiscal year 2027:
+(A) New budget authority, $28,145,000,000.
+(B) Outlays, $7,710,000,000.
+Fiscal year 2028:
+(A) New budget authority, -$56,796,000,000.
+(B) Outlays, -$65,194,000,000.
+Fiscal year 2029:
+(A) New budget authority, $25,562,000,000.
+(B) Outlays, $15,976,000,000.
+Fiscal year 2030:
+(A) New budget authority, $25,712,000,000.
+(B) Outlays, $12,680,000,000.
+Fiscal year 2031:
+(A) New budget authority, $25,941,000,000.
+(B) Outlays, $7,932,000,000.
+Fiscal year 2032:
+(A) New budget authority, $26,354,000,000.
+(B) Outlays, $5,060,000,000.
+Fiscal year 2033:
+(A) New budget authority, $20,192,000,000.
+(B) Outlays, -$4,224,000,000.
+Fiscal year 2034:
+(A) New budget authority, $29,862,000,000.
+(B) Outlays, $2,451,000,000.
+(8) Transportation (400):
+Fiscal year 2025:
+(A) New budget authority, $173,158,000,000.
+(B) Outlays, $144,771,000,000.
+Fiscal year 2026:
+(A) New budget authority, $167,673,000,000.
+(B) Outlays, $152,541,000,000.
+Fiscal year 2027:
+(A) New budget authority, $132,085,000,000.
+(B) Outlays, $158,068,000,000.
+Fiscal year 2028:
+(A) New budget authority, $133,386,000,000.
+(B) Outlays, $162,528,000,000.
+Fiscal year 2029:
+(A) New budget authority, $134,447,000,000.
+(B) Outlays, $160,846,000,000.
+Fiscal year 2030:
+(A) New budget authority, $129,994,000,000.
+(B) Outlays, $150,790,000,000.
+Fiscal year 2031:
+(A) New budget authority, $130,964,000,000.
+(B) Outlays, $147,539,000,000.
+Fiscal year 2032:
+(A) New budget authority, $138,846,000,000.
+(B) Outlays, $150,163,000,000.
+Fiscal year 2033:
+(A) New budget authority, $140,544,000,000.
+(B) Outlays, $149,247,000,000.
+Fiscal year 2034:
+(A) New budget authority, $142,271,000,000.
+(B) Outlays, $149,454,000,000.
+(9) Community and Regional Development (450):
+Fiscal year 2025:
+(A) New budget authority, $90,242,000,000.
+(B) Outlays, $78,592,000,000.
+Fiscal year 2026:
+(A) New budget authority, $20,135,000,000.
+(B) Outlays, $64,267,000,000.
+Fiscal year 2027:
+(A) New budget authority, $19,259,000,000.
+(B) Outlays, $56,506,000,000.
+Fiscal year 2028:
+(A) New budget authority, $19,462,000,000.
+(B) Outlays, $45,101,000,000.
+Fiscal year 2029:
+(A) New budget authority, $19,888,000,000.
+(B) Outlays, $35,976,000,000.
+Fiscal year 2030:
+(A) New budget authority, $20,326,000,000.
+(B) Outlays, $31,026,000,000.
+Fiscal year 2031:
+(A) New budget authority, $20,727,000,000.
+(B) Outlays, $27,543,000,000.
+Fiscal year 2032:
+(A) New budget authority, $21,007,000,000.
+(B) Outlays, $24,658,000,000.
+Fiscal year 2033:
+(A) New budget authority, $21,462,000,000.
+(B) Outlays, $22,754,000,000.
+Fiscal year 2034:
+(A) New budget authority, $21,864,000,000.
+(B) Outlays, $21,733,000,000.
+(10) Education, Training, Employment, and Social Services
+(500):
+Fiscal year 2025:
+(A) New budget authority, $149,379,000,000.
+(B) Outlays, $171,920,000,000.
+Fiscal year 2026:
+(A) New budget authority, $152,714,000,000.
+(B) Outlays, $151,639,000,000.
+Fiscal year 2027:
+(A) New budget authority, $155,152,000,000.
+(B) Outlays, $151,206,000,000.
+Fiscal year 2028:
+(A) New budget authority, $157,970,000,000.
+(B) Outlays, $152,914,000,000.
+Fiscal year 2029:
+(A) New budget authority, $160,942,000,000.
+(B) Outlays, $155,518,000,000.
+Fiscal year 2030:
+(A) New budget authority, $163,842,000,000.
+(B) Outlays, $158,366,000,000.
+Fiscal year 2031:
+(A) New budget authority, $166,812,000,000.
+(B) Outlays, $161,277,000,000.
+Fiscal year 2032:
+(A) New budget authority, $170,169,000,000.
+(B) Outlays, $164,438,000,000.
+Fiscal year 2033:
+(A) New budget authority, $173,711,000,000.
+(B) Outlays, $167,726,000,000.
+Fiscal year 2034:
+(A) New budget authority, $176,750,000,000.
+(B) Outlays, $170,798,000,000.
+(11) Health (550):
+Fiscal year 2025:
+(A) New budget authority, $948,957,000,000.
+(B) Outlays, $963,482,000,000.
+Fiscal year 2026:
+(A) New budget authority, $992,092,000,000.
+(B) Outlays, $977,707,000,000.
+Fiscal year 2027:
+(A) New budget authority, $1,020,326,000,000.
+(B) Outlays, $1,021,663,000,000.
+Fiscal year 2028:
+(A) New budget authority, $1,054,949,000,000.
+(B) Outlays, $1,051,917,000,000.
+Fiscal year 2029:
+(A) New budget authority, $1,098,389,000,000.
+(B) Outlays, $1,093,560,000,000.
+Fiscal year 2030:
+(A) New budget authority, $1,142,669,000,000.
+(B) Outlays, $1,132,096,000,000.
+Fiscal year 2031:
+(A) New budget authority, $1,176,497,000,000.
+(B) Outlays, $1,175,451,000,000.
+Fiscal year 2032:
+(A) New budget authority, $1,226,824,000,000.
+(B) Outlays, $1,216,998,000,000.
+Fiscal year 2033:
+(A) New budget authority, $1,276,881,000,000.
+(B) Outlays, $1,266,068,000,000.
+Fiscal year 2034:
+(A) New budget authority, $1,310,000,000,000.
+(B) Outlays, $1,298,975,000,000.
+(12) Medicare (570):
+Fiscal year 2025:
+(A) New budget authority, $952,239,000,000.
+(B) Outlays, $951,989,000,000.
+Fiscal year 2026:
+(A) New budget authority, $1,007,093,000,000.
+(B) Outlays, $1,008,459,000,000.
+Fiscal year 2027:
+(A) New budget authority, $1,066,571,000,000.
+(B) Outlays, $1,066,331,000,000.
+Fiscal year 2028:
+(A) New budget authority, $1,209,735,000,000.
+(B) Outlays, $1,208,675,000,000.
+Fiscal year 2029:
+(A) New budget authority, $1,125,645,000,000.
+(B) Outlays, $1,125,301,000,000.
+Fiscal year 2030:
+(A) New budget authority, $1,275,864,000,000.
+(B) Outlays, $1,275,627,000,000.
+Fiscal year 2031:
+(A) New budget authority, $1,357,791,000,000.
+(B) Outlays, $1,357,726,000,000.
+Fiscal year 2032:
+(A) New budget authority, $1,445,195,000,000.
+(B) Outlays, $1,445,191,000,000.
+Fiscal year 2033:
+(A) New budget authority, $1,659,329,000,000.
+(B) Outlays, $1,659,346,000,000.
+Fiscal year 2034:
+(A) New budget authority, $1,666,492,000,000.
+(B) Outlays, $1,666,497,000,000.
+(13) Income Security (600):
+Fiscal year 2025:
+(A) New budget authority, $712,538,000,000.
+(B) Outlays, $709,200,000,000.
+Fiscal year 2026:
+(A) New budget authority, $691,755,000,000.
+(B) Outlays, $690,914,000,000.
+Fiscal year 2027:
+(A) New budget authority, $708,645,000,000.
+(B) Outlays, $703,648,000,000.
+Fiscal year 2028:
+(A) New budget authority, $727,434,000,000.
+(B) Outlays, $727,234,000,000.
+Fiscal year 2029:
+(A) New budget authority, $728,925,000,000.
+(B) Outlays, $714,850,000,000.
+Fiscal year 2030:
+(A) New budget authority, $748,162,000,000.
+(B) Outlays, $739,465,000,000.
+Fiscal year 2031:
+(A) New budget authority, $760,737,000,000.
+(B) Outlays, $751,498,000,000.
+Fiscal year 2032:
+(A) New budget authority, $778,878,000,000.
+(B) Outlays, $768,898,000,000.
+Fiscal year 2033:
+(A) New budget authority, $800,142,000,000.
+(B) Outlays, $796,835,000,000.
+Fiscal year 2034:
+(A) New budget authority, $808,455,000,000.
+(B) Outlays, $798,159,000,000.
+(14) Social Security (650):
+Fiscal year 2025:
+(A) New budget authority, $67,259,000,000.
+(B) Outlays, $67,259,000,000.
+Fiscal year 2026:
+(A) New budget authority, $81,690,000,000.
+(B) Outlays, $81,690,000,000.
+Fiscal year 2027:
+(A) New budget authority, $89,447,000,000.
+(B) Outlays, $89,447,000,000.
+Fiscal year 2028:
+(A) New budget authority, $94,419,000,000.
+(B) Outlays, $94,419,000,000.
+Fiscal year 2029:
+(A) New budget authority, $100,138,000,000.
+(B) Outlays, $100,138,000,000.
+Fiscal year 2030:
+(A) New budget authority, $106,208,000,000.
+(B) Outlays, $106,208,000,000.
+Fiscal year 2031:
+(A) New budget authority, $112,114,000,000.
+(B) Outlays, $112,114,000,000.
+Fiscal year 2032:
+(A) New budget authority, $118,485,000,000.
+(B) Outlays, $118,485,000,000.
+Fiscal year 2033:
+(A) New budget authority, $125,325,000,000.
+(B) Outlays, $125,325,000,000.
+Fiscal year 2034:
+(A) New budget authority, $132,539,000,000.
+(B) Outlays, $132,539,000,000.
+(15) Veterans Benefits and Services (700):
+Fiscal year 2025:
+(A) New budget authority, $361,349,000,000.
+(B) Outlays, $357,760,000,000.
+Fiscal year 2026:
+(A) New budget authority, $382,555,000,000.
+(B) Outlays, $378,814,000,000.
+Fiscal year 2027:
+(A) New budget authority, $404,594,000,000.
+(B) Outlays, $401,319,000,000.
+Fiscal year 2028:
+(A) New budget authority, $427,329,000,000.
+(B) Outlays, $444,241,000,000.
+Fiscal year 2029:
+(A) New budget authority, $447,757,000,000.
+(B) Outlays, $422,317,000,000.
+Fiscal year 2030:
+(A) New budget authority, $466,616,000,000.
+(B) Outlays, $461,720,000,000.
+Fiscal year 2031:
+(A) New budget authority, $486,716,000,000.
+(B) Outlays, $481,638,000,000.
+Fiscal year 2032:
+(A) New budget authority, $507,187,000,000.
+(B) Outlays, $502,655,000,000.
+Fiscal year 2033:
+(A) New budget authority, $528,733,000,000.
+(B) Outlays, $548,734,000,000.
+Fiscal year 2034:
+(A) New budget authority, $550,662,000,000.
+(B) Outlays, $547,796,000,000.
+(16) Administration of Justice (750):
+Fiscal year 2025:
+(A) New budget authority, $83,111,000,000.
+(B) Outlays, $85,235,000,000.
+Fiscal year 2026:
+(A) New budget authority, $88,992,000,000.
+(B) Outlays, $87,024,000,000.
+Fiscal year 2027:
+(A) New budget authority, $87,701,000,000.
+(B) Outlays, $86,420,000,000.
+Fiscal year 2028:
+(A) New budget authority, $89,687,000,000.
+(B) Outlays, $88,514,000,000.
+Fiscal year 2029:
+(A) New budget authority, $92,142,000,000.
+(B) Outlays, $90,690,000,000.
+Fiscal year 2030:
+(A) New budget authority, $94,574,000,000.
+(B) Outlays, $92,986,000,000.
+Fiscal year 2031:
+(A) New budget authority, $96,848,000,000.
+(B) Outlays, $94,869,000,000.
+Fiscal year 2032:
+(A) New budget authority, $104,463,000,000.
+(B) Outlays, $101,844,000,000.
+Fiscal year 2033:
+(A) New budget authority, $107,160,000,000.
+(B) Outlays, $104,339,000,000.
+Fiscal year 2034:
+(A) New budget authority, $109,431,000,000.
+(B) Outlays, $106,934,000,000.
+(17) General Government (800):
+Fiscal year 2025:
+(A) New budget authority, $10,089,000,000.
+(B) Outlays, $37,960,000,000.
+Fiscal year 2026:
+(A) New budget authority, $30,666,000,000.
+(B) Outlays, $38,285,000,000.
+Fiscal year 2027:
+(A) New budget authority, $32,065,000,000.
+(B) Outlays, $38,261,000,000.
+Fiscal year 2028:
+(A) New budget authority, $32,994,000,000.
+(B) Outlays, $37,957,000,000.
+Fiscal year 2029:
+(A) New budget authority, $33,770,000,000.
+(B) Outlays, $37,793,000,000.
+Fiscal year 2030:
+(A) New budget authority, $34,614,000,000.
+(B) Outlays, $37,985,000,000.
+Fiscal year 2031:
+(A) New budget authority, $35,247,000,000.
+(B) Outlays, $37,024,000,000.
+Fiscal year 2032:
+(A) New budget authority, $36,189,000,000.
+(B) Outlays, $36,307,000,000.
+Fiscal year 2033:
+(A) New budget authority, $36,960,000,000.
+(B) Outlays, $36,758,000,000.
+Fiscal year 2034:
+(A) New budget authority, $37,681,000,000.
+(B) Outlays, $37,266,000,000.
+(18) Net Interest (900):
+Fiscal year 2025:
+(A) New budget authority, $1,011,643,000,000.
+(B) Outlays, $1,011,643,000,000.
+Fiscal year 2026:
+(A) New budget authority, $1,031,561,000,000.
+(B) Outlays, $1,031,561,000,000.
+Fiscal year 2027:
+(A) New budget authority, $1,078,839,000,000.
+(B) Outlays, $1,078,839,000,000.
+Fiscal year 2028:
+(A) New budget authority, $1,150,343,000,000.
+(B) Outlays, $1,150,343,000,000.
+Fiscal year 2029:
+(A) New budget authority, $1,213,150,000,000.
+(B) Outlays, $1,213,150,000,000.
+Fiscal year 2030:
+(A) New budget authority, $1,269,439,000,000.
+(B) Outlays, $1,269,439,000,000.
+Fiscal year 2031:
+(A) New budget authority, $1,332,808,000,000.
+(B) Outlays, $1,332,808,000,000.
+Fiscal year 2032:
+(A) New budget authority, $1,398,649,000,000.
+(B) Outlays, $1,398,649,000,000.
+Fiscal year 2033:
+(A) New budget authority, $1,457,676,000,000.
+(B) Outlays, $1,457,676,000,000.
+Fiscal year 2034:
+(A) New budget authority, $1,525,604,000,000.
+(B) Outlays, $1,525,604,000,000.
+(19) Allowances (920):
+Fiscal year 2025:
+(A) New budget authority, -$1,009,217,000,000.
+(B) Outlays, -$987,791,000,000.
+Fiscal year 2026:
+(A) New budget authority, -$888,800,000,000.
+(B) Outlays, -$900,514,000,000.
+Fiscal year 2027:
+(A) New budget authority, -$890,385,000,000.
+(B) Outlays, -$894,905,000,000.
+Fiscal year 2028:
+(A) New budget authority, -$848,052,000,000.
+(B) Outlays, -$850,422,000,000.
+Fiscal year 2029:
+(A) New budget authority, -$851,534,000,000.
+(B) Outlays, -$852,928,000,000.
+Fiscal year 2030:
+(A) New budget authority, -$874,353,000,000.
+(B) Outlays, -$874,414,000,000.
+Fiscal year 2031:
+(A) New budget authority, -$874,523,000,000.
+(B) Outlays, -$874,523,000,000.
+Fiscal year 2032:
+(A) New budget authority, -$894,135,000,000.
+(B) Outlays, -$894,135,000,000.
+Fiscal year 2033:
+(A) New budget authority, -$940,797,000,000.
+(B) Outlays, -$940,797,000,000.
+Fiscal year 2034:
+(A) New budget authority, -$913,790,000,000.
+(B) Outlays, -$913,790,000,000.
+(20) Undistributed Offsetting Receipts (950):
+Fiscal year 2025:
+(A) New budget authority, -$127,603,000,000.
+(B) Outlays, -$127,603,000,000.
+Fiscal year 2026:
+(A) New budget authority, -$135,110,000,000.
+(B) Outlays, -$135,110,000,000.
+Fiscal year 2027:
+(A) New budget authority, -$137,883,000,000.
+(B) Outlays, -$137,883,000,000.
+Fiscal year 2028:
+(A) New budget authority, -$141,145,000,000.
+(B) Outlays, -$141,165,000,000.
+Fiscal year 2029:
+(A) New budget authority, -$145,400,000,000.
+(B) Outlays, -$145,407,000,000.
+Fiscal year 2030:
+(A) New budget authority, -$149,582,000,000.
+(B) Outlays, -$149,581,000,000.
+Fiscal year 2031:
+(A) New budget authority, -$154,014,000,000.
+(B) Outlays, -$154,013,000,000.
+Fiscal year 2032:
+(A) New budget authority, -$160,114,000,000.
+(B) Outlays, -$160,113,000,000.
+Fiscal year 2033:
+(A) New budget authority, -$166,102,000,000.
+(B) Outlays, -$166,101,000,000.
+Fiscal year 2034:
+(A) New budget authority, -$171,015,000,000.
+(B) Outlays, -$171,014,000,000.
+
+Subtitle B--Levels and Amounts in the Senate
+

@@ -1,0 +1,15 @@
+
+    Directory: C:\Users\edaci\Documents\zig-bill-utils\src\lib
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---           5/30/2025  9:51 AM            657 clean_bill.zig
+-a---           5/30/2025  9:51 AM            460 extract_amendments.zig
+-a---           5/30/2025  9:48 AM            256 extract_headings.zig
+-a---           5/30/2025  9:48 AM            555 extract_money.zig
+-a---           5/30/2025  9:49 AM           4085 filter_keywords.zig
+-a---           5/30/2025 10:27 AM              0 lib.zig
+-a---           5/30/2025  9:36 AM           1327 logger.zig
+-a---           5/30/2025  9:50 AM            971 split_sections.zig
+-a---           5/30/2025  9:37 AM           5458 utils.zig
+
